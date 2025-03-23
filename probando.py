@@ -8,7 +8,7 @@ print("""
 """)
 
 print("--------------------------------------")
-print("Bienvenido a mi sala de videos juegos")
+print("Bienvenido a sala de videos juegos")
 print("--------------------------------------")
 
 registro = {
